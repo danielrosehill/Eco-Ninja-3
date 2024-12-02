@@ -41,6 +41,15 @@ Try on:
 
 To "convert" this to a prompt template, rewrite (or ask an LLM to!). This works nicely with LangChain.
 
+
+## Versions
+
+Core prompt body:
+
+V3 - Word count about 356 chars
+
+488 tokens (GPT4-o)
+
 ## Model Requirements
 
 - Choose an instructional model  
