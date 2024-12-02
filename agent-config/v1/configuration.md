@@ -1,12 +1,14 @@
 # Monetised emissions data retrieval genie (Eco Ninja 3)
 
-Daniel Rosehill / 02-Dec-24
+*Daniel Rosehill / 02-Dec-24*
 
 Variant name: "Eco Ninja 3"!
 
 Usage:
 - Prompt template (adapt)
 - LLM assistant configuration
+
+![Use On Hugging Chat](https://img.shields.io/badge/Use%20On-Hugging%20Chat-blue?style=for-the-badge)
 
 ## Variables
 
