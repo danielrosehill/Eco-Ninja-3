@@ -30,6 +30,14 @@ To my mind, it represents a good challenge to see what LLMs enriched with RAG an
 
 ChatGPT - not public
 
+## Validation parameter
+
+Exxon Mobile Corporation (XOM:NYSE) has been chosen as a validation benchmark because of its sizeable scope 3 emissions.
+
+The validated data for Exxon can be found recorded within the  `validation` folder.
+
+Similar validation documents can be used for accuracy assessment / QA / evaluation.
+
 ## Config For Agent
 
 Nested under:
