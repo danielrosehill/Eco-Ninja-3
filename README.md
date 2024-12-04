@@ -4,7 +4,9 @@
 
 ## How far can LLMs be stretched for data retrieval and analysis?
 
-02-Dec-24
+[![Try on Hugging Face](https://img.shields.io/badge/Try%20on-Hugging%20Face-orange)](https://hf.co/chat/assistant/674dfb83203be059afb0da43)
+
+*02-Dec-24*
 
 My decision to give this a whimsical name and share this on the internet was motivated primarily by the fact that after spending so much time working on these prompts and configurations it felt out of character *not* to want to pass it along.
 
