@@ -1,10 +1,10 @@
 # Eco Ninja 3: Sustainability Data Retrieval Genie
 
+![alt text](images/sloth-calculating-emissions.webp)
+
 ## How far can LLMs be stretched for data retrieval and analysis?
 
 02-Dec-24
-
-<img align="left" width="200" src="images/econinja.png">
 
 My decision to give this a whimsical name and share this on the internet was motivated primarily by the fact that after spending so much time working on these prompts and configurations it felt out of character *not* to want to pass it along.
 
