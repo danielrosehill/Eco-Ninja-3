@@ -43,30 +43,32 @@ Here is the data converted into a table format, including the calculations for e
 
 ## Monetised Emissions All Scopes
 
-$152,220M = $152.22BN (billion, USD)
-
-### Notes:
-- The **All Scope Emissions** is the sum of Scope 1, Scope 2 (Location Based), and Scope 3 emissions: $$92 + 7 + 540 = 639$$ million metric tons of CO2e.
-- The **monetized emissions** are calculated by multiplying each scope's emissions by a factor of $236 million.
-- The **All Emissions Monetized** value is the total of all monetized emissions: $$21,712 + 1,652 + 1,416 + 127,440 = 152,220$$ million USD.
-
----
-
-## Calculated Values: Monetised GHG Emissions Vs. EBITDA
-
-| Metric                                   | Value  |
-|------------------------------------------|--------|
-| EBITDA (BN)                              | 102.59 |
-| Monetized Emissions (BN)                 | 152.22 |
-| EBITDA minus Monetized Emissions (BN)    | -49.63 |
-| Monetized Emissions as a ratio to EBITDA | 1.48   |
-
+$150.80 BN 
 
 ## Financial Performance Values
 
 ### Finanical Data (Year End 2022)
 
-EBITDA estimate: $102.591 BN (Macrotrends), round to $102.59BN
+EBITDA estimate: $102.59 BN (Macrotrends), round to $102.59BN
+
+
+I'll help you calculate these figures and present them in a markdown table.
+
+Calculations:
+1. EBITDA - Monetized Emissions = 102.59B - 150.80B = -48.21B
+2. Monetized Emissions Intensity = Monetized Emissions / EBITDA = 150.80B / 102.59B = 1.47
+
+| Metric | Value |
+|--------|--------|
+| EBITDA | $102.59B |
+| Monetized All Scopes Emissions | $150.80B |
+| EBITDA - Monetized Emissions | -$48.21B |
+| Monetized Emissions Intensity | 1.47x |
+
+The negative value in EBITDA - Monetized Emissions indicates that the monetized emissions exceed EBITDA by $48.21B. 
+
+The Monetized Emissions Intensity of 1.47x shows that the monetized emissions are 147% of EBITDA.
+
 
 ### Full Year Earnings
 
