@@ -56,7 +56,5 @@ Upon approval of a company, the assistant will output information in this format
 ### **Technical Notes**
 - The model should use up-to-date databases or APIs containing corporate sustainability reports and financial disclosures.
 - Randomization should ensure diverse suggestions across different industries and geographies.
-
-This configuration ensures that the assistant aligns with user expectations while providing accurate and actionable information about companies' environmental and financial performance.
-
+ 
  
