@@ -2,10 +2,11 @@
 
 ## Exxon (XOM), 2023 GHG Emissions Data
 
- ![alt text](../images/validation/exxon.png)
 
- ![alt text](../images/validation/exxon2.png)
+ ![alt text](exxon.png)
 
+ ![alt text](exxon2.png)
+ 
 ### Scope 1 Emissions, Operated Basis
 
 92 million metric tons of CO2e
