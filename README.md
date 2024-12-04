@@ -1,4 +1,4 @@
-# Eco Ninja 3: Sustainability Data Retrieval Genie
+# Eco Ninja 3: Using LLMs To Compare Sustainability & Performance Data For Publicly Listed Companies
 
 ![alt text](images/sloth-calculating-emissions.webp)
 
