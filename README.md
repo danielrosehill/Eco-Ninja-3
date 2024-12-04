@@ -24,6 +24,10 @@ Asking for only one humble variable from the user, the config throws an *awful* 
 
 To my mind, it represents a good challenge to see what LLMs enriched with RAG and computational augments *are* already capable of. Its accuracy is imperfect and verification and review of its findings are a must, but it has nevertheless consistently surprised me.
 
+## Test URLs
+
+ChatGPT - not public
+
 ## Config For Agent
 
 Nested under:
