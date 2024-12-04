@@ -2,9 +2,9 @@
 
 ## Exxon (XOM), 2023 GHG Emissions Data
 
-![alt text](images/validation/exxon.png)
+ ![alt text](../images/validation/exxon.png)
 
-![alt text](images/validation/exxon2.png)
+ ![alt text](../images/validation/exxon2.png)
 
 ### Scope 1 Emissions, Operated Basis
 

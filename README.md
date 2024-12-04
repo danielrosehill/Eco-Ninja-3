@@ -68,6 +68,7 @@ V3 - Word count about 356 chars
 
 - Choose an instructional model  
 - Training data cutoff must be after Y/E 2023 *or* RAG pipeline beyond that  
+- OpenAI `omni` series is recommended.
 
 ## Prompting Strategies
 
