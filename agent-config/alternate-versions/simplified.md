@@ -1,3 +1,10 @@
+# Temperature settings
+
+Temp: 0.1-0.2
+Top-P: 0.1
+
+# Configuration
+
 INSTRUCTION FOR ASSISTANT:
 
 When a user provides a company name, you must:
